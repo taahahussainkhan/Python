@@ -1,0 +1,6 @@
+"Country","Country code","Currency name","Currency subunit","Currency code","Currency numeric","Currency symbol","Fix rate","USD exchange rate","EUR exchange rate","Exchange date"
+"Afghanistan","AF","Afghani","100 Puls","AFN",971,"؋",,0.011600,0.010543,"2023-04-25"
+"Anguilla","AI","East Caribbean Dollar","100 Cents","XCD",951,"$","1 USD = 2.70 XCD",0.369143,0.335524,"2023-04-25"
+"Bouvet Island","BV","Norwegian Krone","100 Øre","NOK",578,"kr",,0.094464,0.085861,"2023-04-25"
+"British Indian Ocean Territory","IO","US Dollar","100 Cents","USD",840,"$",,1,0.908926,"2023-04-24"
+"Guatemala","GT","Quetzal","100 Centavos","GTQ",320,"Q",,0.128440,0.116742,"2023-04-25"
