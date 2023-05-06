@@ -7,4 +7,4 @@ while True:
         break
 print(f'x is {x}')
     
-    #This will prompt the user again and again untill the correct input is entered.
+    #This will prompt the user again and again until the correct input is entered.
