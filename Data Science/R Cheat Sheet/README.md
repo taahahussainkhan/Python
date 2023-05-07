@@ -1,1 +1,0 @@
-# R Cheat Sheet

@@ -1,1 +1,0 @@
-# Docker & Kubernetes Cheat Sheet

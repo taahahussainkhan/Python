@@ -1,1 +1,0 @@
-# Artificial Intelligence Cheat Sheet
