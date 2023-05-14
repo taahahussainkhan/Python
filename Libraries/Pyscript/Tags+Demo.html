@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pyscript</title>
+
+    <!-- The py-repl tag -->
+    <py-repl id="my-repl" auto-generate=true> </py-repl>
+
+    <!-- The py-env tag -->
+    <py-env>
+        - numpy
+        - matplotlib
+        - paths:
+            - /example.py
+    </py-env>
+
+    <!-- The py-config tag -->
+    <py-config>
+        autoclose_loader: true
+        runtimes:
+          - src: "https://cdn.jsdelivr.net/pyodide/v0.20.0/full/pyodide.js"
+            name: pyodide-0.20
+            lang: python
+    </py-config>
+
+</head>
+
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+<body>
+    <!-- The py-script tag -->
+    <py-script> print('Hello World') </py-script>
+
+    <!-- Visual component tags -->
+    <py-box>
+
+    <py-inputbox>  </py-inputbox>
+    <py-button>  </py-button>
+    <py-title> Lets Learn PyScript with Prince </py-title>
+    
+    </py-box>
+
+  </body>
+</html>
